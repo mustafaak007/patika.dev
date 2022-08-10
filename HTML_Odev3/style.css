@@ -1,0 +1,46 @@
+body{
+    background-color: bisque;
+}
+
+h1{
+    color: brown;
+    font-style: italic;
+}
+
+.baslik{
+    color: white;
+    background-color: brown;
+    font-weight: bold;
+    border-radius: 1rem;
+}
+
+#icerik{
+    margin: 3rem auto;
+    width: 60%;
+}
+
+#icerik div{
+    padding: 15px;
+}
+
+#ust-bilgi{
+margin-left: 3rem;
+}
+
+
+
+.bilgi{
+    display: inline-block;
+    padding: 8px;
+    text-decoration: underline;
+    color: brown;
+    font-weight: bold;
+}
+
+#iyi-dilek{
+    font-size: 1.5rem;
+    float: right;
+    margin-right: 15rem;
+    font-weight: bold;
+    font-family: monospace;
+}
