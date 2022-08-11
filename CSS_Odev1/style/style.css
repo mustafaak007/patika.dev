@@ -1,0 +1,43 @@
+body{
+    font-family: 'Silkscreen', cursive;
+    background-color: #A66CFF;
+}
+
+header{
+    text-align: center;
+    font-size: 3rem;
+    color: #F7FD04;
+}
+
+li{
+    display: inline-block;
+}
+
+a{
+    color: #B5FFD9;
+}
+
+section{
+    text-align: center;
+}
+
+article{
+    margin: 3rem 5rem;
+    padding:0 20rem;
+}
+
+footer{
+    text-align: center;
+}
+
+img{
+    margin: 1rem auto;
+}
+
+.green-color{
+    color: #B5FFD9
+}
+
+.white-color{ 
+    color: white;;
+}
