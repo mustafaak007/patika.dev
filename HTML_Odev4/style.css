@@ -1,5 +1,5 @@
 .container{
-    font-size: small;
+    font-size: 15px;
     width: 90%;
     margin: auto;
 }
@@ -9,8 +9,9 @@
 }
 
 .box{
+    margin-top: 2px;
     width: 33.33%;
-    height: 5.8rem;
+    height: 5rem;
     float: left;
 }
 
