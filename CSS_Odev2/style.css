@@ -1,0 +1,36 @@
+.container{
+    font-size: 15px;
+    width: 90%;
+    margin: auto;
+}
+
+.search-bar{
+    background-color: #EEEEEE;
+}
+
+.box{
+    margin-top: 2px;
+    width: 33.33%;
+    height: 5rem;
+    float: left;
+}
+
+.footer{
+    clear: both;
+}
+
+.center{
+    text-align: center;
+}
+
+.bgc-lgreen{
+    background-color: #7EE5DA;
+}
+
+.bgc-green{
+    background-color: #70CCC2;
+}
+
+.bgc-dgreen{
+    background-color: #62B3AA;
+}
